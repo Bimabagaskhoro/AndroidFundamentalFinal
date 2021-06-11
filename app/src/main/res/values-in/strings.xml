@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Pencarian</string>
+    <string name="home">Rumah</string>
+    <string name="no_user">Tidak Ada Pengguna</string>
+    <string name="followers">PENGIKUT</string>
+    <string name="following">MENGIKUTI</string>
+    <string name="change_language_settings">Bahasa</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="alarm">alarm</string>
+    <string name="set_reminder">Set Pengingat</string>
+    <string name="setting">Pengaturan</string>
+    <string name="notifikasi">Akankah kamu kembali ke app ?</string>
+    <string name="Add_toFavorite">Tambah kesukaan</string>
+    <string name="Remove_fromFavorite">Hapus dari kesukaan</string>
+    <string name="setting_alarm_on">Pengaturan Pengingat pada 09:00</string>
+    <string name="cancel_alarm">Batalkan Pengingat</string>
+    <string name="alarm_message">Pesan Pengingat</string>
+    <string name="time">WAKTU</string>
+    <string name="daily_reminder_at_09">Ini adalah Pengingat Harian pada 09:00</string>
+    <string name="error">Error</string>
+    <string name="name_about">Bima Bagaskhoro</string>
+    <string name="email">a1901912@bangkit.academy</string>
+    <string name="hello">Halo</string>
+    <string name="alert">Jangan lupa untuk kembali ke aplikasi</string>
+</resources>

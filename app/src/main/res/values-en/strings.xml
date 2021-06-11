@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="no_user">No User</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="change_language_settings">language</string>
+    <string name="favorite">Favorite</string>
+    <string name="alarm">alarm</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="setting">Setting</string>
+    <string name="notifikasi">Can you go back to app ?</string>
+    <string name="Add_toFavorite">Add to Favorite</string>
+    <string name="Remove_fromFavorite">Remove from Favorite</string>
+    <string name="setting_alarm_on">Setting Alarm On 09.00</string>
+    <string name="cancel_alarm">Alarm Cancel</string>
+    <string name="alarm_message">alarm message</string>
+    <string name="time">TIME</string>
+    <string name="daily_reminder_at_09">This Daily Reminder set on 09.00</string>
+    <string name="error">Error</string>
+    <string name="name_about">Bima Bagaskhoro</string>
+    <string name="email">a1901912@bangkit.academy</string>
+    <string name="hello">Hello</string>
+    <string name="alert">Dont forget to back in application</string>
+</resources>
